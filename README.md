@@ -1,11 +1,7 @@
 # Demo Git Repository
 
-This is the first file in this repository.
+This repository is based on a Udemy crash course on git.
 
-# Ipsum Below
+# Description
 
-I have no idea what the commands for markup are doing. But that really isn't the point. I just want to make changes and get them into the git repository and see if I can diff the files. Overall the processing has been fairly simple.
-
-One more line of change.
-
-Again: One more comment. I need another change.
+The markup is handy since it formates the contents of this file up in GitHub. Without the markup, the contents of this file would be plain text. So the markup is the way to go.
